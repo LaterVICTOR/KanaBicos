@@ -75,7 +75,7 @@ class Index {
                 asar: true,
                 publish: [{
                         provider: "generic",
-                        url: "https://launcher.latervictor.dev/app",
+                        url: "https://https://kanabicos.latervictor.dev/app",
                     },
                     {
                         provider: "github",
