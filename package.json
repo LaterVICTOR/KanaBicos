@@ -1,7 +1,7 @@
 {
     "name": "KanaBicos",
     "preductname": "KanaBicos Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher V2",
     "main": "src/app.js",
     "url": "https://kanabicos.latervictor.dev/",

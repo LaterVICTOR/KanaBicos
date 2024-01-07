@@ -112,7 +112,7 @@ ipcMain.on('new-status-discord-jugando', async (event, status) => {
                 buttons: [
                     {
                         label: 'Visitar KanaBicos',
-                        url: 'https://www.mialu.cat/',
+                        url: 'https://www.kanabicos.latervictor.dev/',
                     },
                ],
                 instance: false,
