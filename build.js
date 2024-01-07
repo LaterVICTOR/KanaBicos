@@ -74,9 +74,12 @@ class Index {
                 compression: 'maximum',
                 asar: true,
                 publish: [{
+                        provider: "generic",
+                        url: "https://kanabicos.latervictor.dev/app",
+                    },
+                    {
                         provider: "github",
                         releaseType: "release",
-                        private: true
                     }],                
                 win: {
                     icon: "./app/assets/images/icon.ico",
